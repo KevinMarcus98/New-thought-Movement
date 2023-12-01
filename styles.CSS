@@ -1,0 +1,20 @@
+h1 {
+    font-size: 80px;
+    /* Adjust the font size as needed */
+    font-weight: bold;
+    /* Make the text bold */
+    text-transform: uppercase;
+    /* Converts text to uppercase */
+    letter-spacing: 8px;
+    /* Adds spacing between letters */
+}
+
+.red {
+    color: red;
+    /* Set the color to red */
+}
+
+.white {
+    color: white;
+    /* Set the color to white */
+}

@@ -1,0 +1,25 @@
+h1 {
+    font-size: 80px;
+    /* Adjust the font size as needed */
+    font-weight: bold;
+    /* Make the text bold */
+    text-transform: uppercase;
+    /* Converts text to uppercase */
+    letter-spacing: 2px;
+    /* Adds spacing between letters */
+}
+
+.new {
+    color: red;
+    /* Set the color of "NEW" to red */
+}
+
+.thought {
+    color: white;
+    /* Set the color of "THOUGHT" to white */
+}
+
+.history {
+    color: red;
+    /* Set the color of "HISTORY" to red */
+}

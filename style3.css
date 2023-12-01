@@ -1,0 +1,39 @@
+h1 {
+    font-size: 80px;
+    /* Adjust the font size as needed */
+    font-weight: bold;
+    /* Make the text bold */
+    text-transform: uppercase;
+    /* Converts text to uppercase */
+    letter-spacing: 1px;
+    /* Adds spacing between letters */
+}
+
+.new {
+    color: red;
+    /* Set the color of "NEW" to red */
+}
+
+.thought {
+    color: white;
+    /* Set the color of "THOUGHT" to white */
+}
+
+.writers {
+    color: red;
+    /* Set the color of "WRITERS" to red */
+}
+
+.grid-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 5;
+    padding: 10px;
+}
